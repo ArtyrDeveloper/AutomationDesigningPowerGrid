@@ -36,6 +36,7 @@
   </PropertyGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="connected_graph_database" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
